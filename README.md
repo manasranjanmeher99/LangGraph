@@ -47,7 +47,7 @@ notebooks/
 Clone the repository
 
 ```bash
-git clone https://github.com/manasranjanmeher/LangGraph-Tutorials-and-Examples.git
+git clone https://github.com/manasranjanmeher/LangGraph.git
 ```
 
 Create virtual environment
